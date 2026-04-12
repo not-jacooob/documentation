@@ -13,7 +13,25 @@
       {
         "tab": "Home",
         "pages": [
-          "welcome"
+          "welcome",
+          "our-games"
+        ]
+      },
+      {
+        "tab": "Staffing & Contact Information",
+        "groups": [
+          {
+            "group": "Staffing Information",
+            "pages": [
+              "careers"
+            ]
+          },
+          {
+            "group": "Contact Us",
+            "pages": [
+              "support"
+            ]
+          }
         ]
       }
     ]
