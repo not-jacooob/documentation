@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "Volare Studios",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#FF991C",
+    "light": "#FFD580",
+    "dark": "#CC5500"
   },
   "favicon": "/favicon.svg",
   "navigation": {
