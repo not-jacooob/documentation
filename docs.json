@@ -14,7 +14,8 @@
         "tab": "Home",
         "pages": [
           "welcome",
-          "our-games"
+          "our-games",
+          "faq"
         ]
       },
       {
