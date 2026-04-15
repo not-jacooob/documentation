@@ -30,7 +30,8 @@
           {
             "group": "Contact Us",
             "pages": [
-              "support"
+              "support",
+              "support-form"
             ]
           }
         ]
