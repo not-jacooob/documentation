@@ -47,7 +47,7 @@
     "links": [
       {
         "label": "Status Page",
-        "href": "https://status.volarestudios.uk/en-gb"
+        "href": "https://uptime.volarestudios.uk/en-gb"
       },
       {
         "href": "https://volarestudios.sharepoint.com/",
@@ -59,18 +59,6 @@
       "label": "Contact Us",
       "href": "mailto:jacob@portbayretailrblx.uk"
     }
-  },
-  "contextual": {
-    "options": [
-     "copy",
-     "view",
-     "chatgpt",
-     "claude",
-     "perplexity",
-     "mcp",
-     "cursor",
-     "vscode"
-   ]
   },
   "footer": {
     "socials": {
