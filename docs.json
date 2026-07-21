@@ -65,5 +65,14 @@
       "discord": "https://discord.gg/portbay",
       "youtube": "https://www.youtube.com/@PortbayRetail"
     }
+  },
+  "banner": {
+    "content": "We’re currently experiencing issues. View the incident at: https://uptime.volarestudios.uk/incidents/01KY0ETQ75VC9ABVQS0R0Z5E9J",
+    "dismissible": true,
+    "type": "critical",
+    "color": {
+      "light": "#fd5a5a",
+      "dark": "#c91919"
+    }
   }
 }
