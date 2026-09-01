@@ -46,10 +46,6 @@
   "navbar": {
     "links": [
       {
-        "label": "Status Page",
-        "href": "https://uptime.volarestudios.uk/"
-      },
-      {
         "href": "https://volarestudios.sharepoint.com/",
         "label": "Staff Sharepoint"
       }
@@ -62,12 +58,12 @@
   },
   "footer": {
     "socials": {
-      "discord": "https://discord.gg/portbay",
+      "discord": "https://discord.gg/wQxwyGDdRf",
       "youtube": "https://www.youtube.com/@PortbayRetail"
     }
   },
   "banner": {
-    "content": "We’re currently experiencing issues. View the incident at: https://uptime.volarestudios.uk/incidents/01KY0ETQ75VC9ABVQS0R0Z5E9J",
+    "content": "We’re currently experiencing issues. Email support is temporarily unavalible.",
     "dismissible": true,
     "type": "critical",
     "color": {
