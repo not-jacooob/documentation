@@ -70,5 +70,8 @@
       "light": "#fd5a5a",
       "dark": "#c91919"
     }
+  },
+  "metadata": {
+    "timestamp": false
   }
 }
