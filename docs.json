@@ -21,19 +21,22 @@
       },
       {
         "tab": "Staffing & Contact Information",
+        "pages": [
+          "careers",
+          "support",
+          "support-form"
+        ]
+      },
+      {
+        "tab": "Our Communities",
         "groups": [
           {
-            "group": "Staffing Information",
-            "pages": [
-              "careers"
-            ]
+            "group": "Portbay Retail",
+            "pages": []
           },
           {
-            "group": "Contact Us",
-            "pages": [
-              "support",
-              "support-form"
-            ]
+            "group": "EMBR Systems",
+            "pages": []
           }
         ]
       },
