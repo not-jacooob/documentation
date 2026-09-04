@@ -72,6 +72,10 @@
       {
         "href": "https://volarestudios.sharepoint.com/",
         "label": "Staff Sharepoint"
+      },
+      {
+        "href": "https://uptime.volarestudios.uk/",
+        "label": "Status Page"
       }
     ],
     "primary": {
