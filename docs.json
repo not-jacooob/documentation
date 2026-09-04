@@ -32,7 +32,9 @@
         "groups": [
           {
             "group": "Portbay Retail",
-            "pages": []
+            "pages": [
+              "untitled-page"
+            ]
           },
           {
             "group": "EMBR Systems",
@@ -94,9 +96,9 @@
     }
   },
   "banner": {
-    "content": "We’re currently experiencing issues. Email support is temporarily unavalible.",
+    "content": "We’re currently still experiencing issues. Our emails have been restored, contact us at: <mailto:support@volarestudios>",
     "dismissible": true,
-    "type": "critical",
+    "type": "info",
     "color": {
       "light": "#fd5a5a",
       "dark": "#c91919"
