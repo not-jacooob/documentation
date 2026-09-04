@@ -36,6 +36,25 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "Our Partners",
+        "groups": [
+          {
+            "group": "Volare Studio's Partners",
+            "pages": []
+          },
+          {
+            "group": "Portbay Retail's Partners",
+            "pages": [
+              "partner-undefined-101"
+            ]
+          },
+          {
+            "group": "EMBR Systems Partners",
+            "pages": []
+          }
+        ]
       }
     ]
   },
