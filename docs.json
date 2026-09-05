@@ -2,9 +2,6 @@
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
   "name": "Volare Studios",
-  "headTags": [
-    "<meta name=\"copyrighted-site-verification\" content=\"0c55d12361c089ff\" />"
-  ],
   "colors": {
     "primary": "#FF991C",
     "light": "#FFD580",
@@ -35,6 +32,7 @@
         "groups": [
           {
             "group": "Portbay Retail",
+            "pages": []
             "pages": [
               "untitled-page"
             ]
@@ -99,8 +97,10 @@
     }
   },
   "banner": {
+    "content": "We’re currently experiencing issues. Email support is temporarily unavalible.",
     "content": "We’re currently still experiencing issues. Our emails have been restored, contact us at: <mailto:support@volarestudios>",
     "dismissible": true,
+    "type": "critical",
     "type": "info",
     "color": {
       "light": "#fd5a5a",
