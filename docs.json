@@ -21,48 +21,18 @@
       },
       {
         "tab": "Staffing & Contact Information",
-        "pages": [
-          "careers",
-          "support",
-          "support-form"
-        ]
-      },
-      {
-        "tab": "Our Communities",
         "groups": [
           {
-            "group": "Portbay Retail",
-            "pages": []
+            "group": "Staffing Information",
             "pages": [
-              "untitled-page"
+              "careers"
             ]
           },
           {
-            "group": "EMBR Systems",
-            "pages": []
-          }
-        ]
-      },
-      {
-        "tab": "Our Partners",
-        "groups": [
-          {
-            "group": "Volare Studios Partners",
+            "group": "Contact Us",
             "pages": [
-              "no-partners"
-            ]
-          },
-          {
-            "group": "Portbay Retail's Partners",
-            "pages": [
-              "partner-undefined-101",
-              "no-partners-pbr"
-            ]
-          },
-          {
-            "group": "EMBR Systems Partners",
-            "pages": [
-              "no-partners-embr"
+              "support",
+              "support-form"
             ]
           }
         ]
@@ -76,12 +46,12 @@
   "navbar": {
     "links": [
       {
-        "href": "https://volarestudios.sharepoint.com/",
-        "label": "Staff Sharepoint"
+        "label": "Status Page",
+        "href": "https://uptime.volarestudios.uk/"
       },
       {
-        "href": "https://uptime.volarestudios.uk/",
-        "label": "Status Page"
+        "href": "https://volarestudios.sharepoint.com/",
+        "label": "Staff Sharepoint"
       }
     ],
     "primary": {
@@ -92,22 +62,16 @@
   },
   "footer": {
     "socials": {
-      "discord": "https://discord.gg/wQxwyGDdRf",
+      "discord": "https://discord.gg/portbay",
       "youtube": "https://www.youtube.com/@PortbayRetail"
     }
   },
   "banner": {
-    "content": "We’re currently experiencing issues. Email support is temporarily unavalible.",
-    "content": "We’re currently still experiencing issues. Our emails have been restored, contact us at: <mailto:support@volarestudios>",
+    "content": "We’re currently still experiencing issues. Our emails have been restored, contact us at: support@volarestudios.uk",
     "dismissible": true,
     "type": "critical",
-    "type": "info",
     "color": {
       "light": "#fd5a5a",
       "dark": "#c91919"
     }
-  },
-  "metadata": {
-    "timestamp": false
   }
-}
