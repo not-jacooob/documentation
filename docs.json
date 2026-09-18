@@ -1,5 +1,4 @@
 {
-  "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
   "name": "Volare Studios",
   "colors": {
@@ -7,7 +6,46 @@
     "light": "#FFD580",
     "dark": "#CC5500"
   },
+  "logo": {
+    "light": "/images/Frame_2-removebg-preview.png",
+    "dark": "/images/image(34).png"
+  },
   "favicon": "/favicon.png",
+  "navbar": {
+    "links": [
+      {
+        "href": "https://uptime.volarestudios.uk/",
+        "label": "Status Page"
+      },
+      {
+        "href": "https://volarestudios.sharepoint.com/",
+        "label": "Staff Sharepoint"
+      }
+    ],
+    "primary": {
+      "type": "button",
+      "label": "Contact Us",
+      "href": "mailto:jacob@portbayretailrblx.uk"
+    }
+  },
+  "footer": {
+    "socials": {
+      "discord": "https://discord.gg/portbay",
+      "youtube": "https://www.youtube.com/@PortbayRetail"
+    }
+  },
+  "banner": {
+    "content": "We’re currently still experiencing issues. Our emails have been restored, contact us at: support@volarestudios.uk",
+    "dismissible": true,
+    "type": "critical",
+    "color": {
+      "light": "#fd5a5a",
+      "dark": "#c91919"
+    }
+  },
+  "metadata": {
+    "timestamp": false
+  },
   "navigation": {
     "tabs": [
       {
@@ -38,40 +76,5 @@
         ]
       }
     ]
-  },
-  "logo": {
-    "light": "/images/Frame_2-removebg-preview.png",
-    "dark": "/images/image(34).png"
-  },
-  "navbar": {
-    "links": [
-      {
-        "label": "Status Page",
-        "href": "https://uptime.volarestudios.uk/"
-      },
-      {
-        "href": "https://volarestudios.sharepoint.com/",
-        "label": "Staff Sharepoint"
-      }
-    ],
-    "primary": {
-      "type": "button",
-      "label": "Contact Us",
-      "href": "mailto:jacob@portbayretailrblx.uk"
-    }
-  },
-  "footer": {
-    "socials": {
-      "discord": "https://discord.gg/portbay",
-      "youtube": "https://www.youtube.com/@PortbayRetail"
-    }
-  },
-  "banner": {
-    "content": "We’re currently still experiencing issues. Our emails have been restored, contact us at: support@volarestudios.uk",
-    "dismissible": true,
-    "type": "critical",
-    "color": {
-      "light": "#fd5a5a",
-      "dark": "#c91919"
-    }
   }
+}
