@@ -54,7 +54,8 @@
           "welcome",
           "our-games",
           "bulletin",
-          "faq"
+          "faq",
+          "no-partners"
         ]
       },
       {
@@ -71,6 +72,23 @@
             "pages": [
               "support",
               "support-form"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Our Communties",
+        "groups": [
+          {
+            "group": "Portbay Retail",
+            "pages": [
+              "no-partners-pbr"
+            ]
+          },
+          {
+            "group": "EMBR Systems",
+            "pages": [
+              "no-partners-embr"
             ]
           }
         ]
