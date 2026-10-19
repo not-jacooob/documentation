@@ -7,10 +7,13 @@
     "dark": "#CC5500"
   },
   "logo": {
-    "light": "/images/Frame_2-removebg-preview.png",
-    "dark": "/images/image(34).png"
+    "light": "/images/image(39).png",
+    "dark": "/images/Untitled(50).png"
   },
-  "favicon": "/favicon.png",
+  "favicon": {
+    "light": "/images/image(40).png",
+    "dark": "/images/big-wing-butterfly.png"
+  },
   "navbar": {
     "links": [
       {
@@ -72,23 +75,6 @@
             "pages": [
               "support",
               "support-form"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "Our Communties",
-        "groups": [
-          {
-            "group": "Portbay Retail",
-            "pages": [
-              "no-partners-pbr"
-            ]
-          },
-          {
-            "group": "EMBR Systems",
-            "pages": [
-              "no-partners-embr"
             ]
           }
         ]
